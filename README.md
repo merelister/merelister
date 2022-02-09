@@ -1,7 +1,7 @@
 ### Hi there, I'm Meredith Lister 👋
 
 #### About me
-I'm a recent graduate from the University of British Columbia who studied computer science and English.
+I studied computer science and English and love writing code + documentation!
 
 #### What I'm doing:
 - Using graph databases to analyze modernist texts from a feminist recovery perspective
