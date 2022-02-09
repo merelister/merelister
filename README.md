@@ -1,4 +1,4 @@
-### Hi there, I'm Meredith Lister 👋
+### Hi there, I'm Meredith Lister 
 
 #### About me
 I studied computer science and English and love writing code + documentation!
