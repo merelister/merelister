@@ -5,8 +5,9 @@
 
 #### What I'm doing
 - 📚 Using graph databases to analyze modernist texts from a feminist recovery perspective
-- ☕ Working as a software developer (Java + lots of documentation)
+- ☕ Working as a software developer (Java)
 
 #### Recent projects 
 - 🧠 A mental health app built with React Native + Typescript for my capstone project
 
+<a rel="me" href="https://hachyderm.io/@meredith">Mastodon</a>
