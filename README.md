@@ -5,7 +5,7 @@
 
 #### What I'm doing
 - 📚 Using graph databases to analyze modernist texts from a feminist recovery perspective
-- ☕ Working as a software developer (Java)
+- ☕ Working as a software developer (Java, primarily building and testing microservices)
 
 #### Recent projects 
 - 🧠 A mental health app built with React Native + Typescript for my capstone project
