@@ -10,4 +10,3 @@
 #### Recent projects 
 - 🧠 A mental health app built with React Native + Typescript for my capstone project
 
-<a rel="me" href="https://hachyderm.io/@meredith">Mastodon</a>
